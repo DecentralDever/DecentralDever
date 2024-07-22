@@ -1,12 +1,11 @@
-
-🚀🚀🚀
+## 🚀🚀🚀
 Hello and welcome! I'm DecentralDever, a passionate crypto enthusiast who is dedicated to advancing decentralized finance and innovative blockchain solutions. 
 
 ## 📜 Building on the scroll 📜
 
-## Projects
+## 📝 Projects
 
-📝 My Current Project is Decentralized Cooperative Savings and Lending (ROSCA) System
+My Current Project is Decentralized Cooperative Savings and Lending (ROSCA) System
 My Decentralized Cooperative Savings and Lending (ROSCA) System stands out due to several unique and novel features:
 
 - **Leveraging Scroll's zkEVM Technology:** 
@@ -32,11 +31,32 @@ My Decentralized Cooperative Savings and Lending (ROSCA) System stands out due t
 
 These unique features and our novel approach position our ROSCA system as a groundbreaking solution in the DeFi space, addressing critical gaps in traditional financial systems and driving broader adoption of decentralized finance.
 
+## ⚡ Capabilities
 
+1. **Blockchain:**
+  - Blockchain Development: Solidity, Ethereum, Binance Smart Chain, Polygon
+  - Smart Contracts: Writing, testing, and deploying smart contracts
+  - DeFi: Yield farming, liquidity provision, staking, protocol analysis
 
-## Collaborations 
+2. **Programming:**
+   - Advanced knowledge of programming languages like Solidity, Java, and Html for building dApps
 
-💫 I'm always up for working with other crypto fans and developers. You can report issues and suggest changes to my projects. Let's create and build the decentralized future together!
+5. **Database Management:**
+   - Knowledge of managing databases, particularly those used in decentralized applications, such as IPFS.
+
+6. **Financial Analysis:**
+   - Ability to analyze financial data and understand financial inclusion challenges.
+   - Knowledge of traditional and decentralized financial systems.
+
+7. **Risk Management:**
+   - Skills in identifying and mitigating financial and technological risks.
+   - Understanding of security protocols to protect against fraud and cyber threats.
+
+8. **Community Building:**
+   - Experience in building and nurturing online communities.
+   - Skills in engaging with users through social media, forums, and other platforms to gather feedback and drive adoption.
+
 
 ## ᵗᑋᵃᐢᵏ ᵞᵒᵘ* so much for reading!
+*💫 I'm always up for working with other crypto fans and developers. You can report issues and suggest changes to my projects. Let's create and build the decentralized future together!*
 
