@@ -38,5 +38,5 @@ These unique features and our novel approach position our ROSCA system as a grou
 
 💫 I'm always up for working with other crypto fans and developers. You can report issues and suggest changes to my projects. Let's create and build the decentralized future together!
 
-## ᵗᑋᵃᐢᵏ ᵞᵒᵘ* Thank you so much for reading!
+## ᵗᑋᵃᐢᵏ ᵞᵒᵘ* so much for reading!
 
