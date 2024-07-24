@@ -55,6 +55,11 @@ These unique features and our novel approach position our ROSCA system as a grou
 8. **Community Building:**
    - Experience in building and nurturing online communities.
    - Skills in engaging with users through social media, forums, and other platforms to gather feedback and drive adoption.
+  
+  ## Interested in supporting me? 
+  Donate to my crypto wallet:
+  Ethereum: 0x40455b8853a778a6477289b756512fc53c44366e
+
 
 
 ## ᵗᑋᵃᐢᵏ ᵞᵒᵘ* so much for reading!
