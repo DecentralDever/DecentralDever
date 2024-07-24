@@ -58,10 +58,10 @@ These unique features and our novel approach position our ROSCA system as a grou
   
   ## Interested in supporting me? 
   Donate to my crypto wallet:
-  Ethereum: 0x40455b8853a778a6477289b756512fc53c44366e
+  Eth: 0x40455b8853a778a6477289b756512fc53c44366e
 
 
 
 ## ᵗᑋᵃᐢᵏ ᵞᵒᵘ* so much for reading!
-*💫 I'm always up for working with other crypto fans and developers. You can report issues and suggest changes to my projects. Let's create and build the decentralized future together!*
+*💫 I'm always up for working with other crypto fans and developers. You can report issues and suggest changes to my projects.*
 
