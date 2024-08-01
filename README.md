@@ -1,12 +1,13 @@
-## 🚀🚀🚀
-Hello and welcome! I'm DecentralDever, a passionate crypto enthusiast who is dedicated to advancing decentralized finance and innovative blockchain solutions. 
+📜 Building on the scroll 📜
 
-## 📜 Building on the scroll 📜
+🖐 Hello we are DecentralDever 
 
-## 📝 Projects
+We are passionate crypto enthusiast who are dedicated to advancing decentralized finance and innovative blockchain solutions. 
 
-My Current Project is Decentralized Cooperative Savings and Lending (ROSCA) System
-My Decentralized Cooperative Savings and Lending (ROSCA) System stands out due to several unique and novel features:
+ 📝 Projects
+
+Our Current Project is Decentralized Cooperative Savings and Lending (ROSCA) System
+Our Decentralized Cooperative Savings and Lending (ROSCA) System stands out due to several unique and novel features:
 
 - **Leveraging Scroll's zkEVM Technology:** 
   By utilizing Scroll’s zkEVM Layer 2 solution, our platform ensures high scalability, low transaction costs, and enhanced privacy for users. This technological advantage provides a superior user experience compared to other platforms that rely solely on Layer 1 solutions.
@@ -31,7 +32,7 @@ My Decentralized Cooperative Savings and Lending (ROSCA) System stands out due t
 
 These unique features and our novel approach position our ROSCA system as a groundbreaking solution in the DeFi space, addressing critical gaps in traditional financial systems and driving broader adoption of decentralized finance.
 
-## ⚡ Capabilities
+ ⚡ Capabilities
 
 1. **Blockchain:**
   - Blockchain Development: Solidity, Ethereum, Binance Smart Chain, Polygon
@@ -56,12 +57,12 @@ These unique features and our novel approach position our ROSCA system as a grou
    - Experience in building and nurturing online communities.
    - Skills in engaging with users through social media, forums, and other platforms to gather feedback and drive adoption.
   
-  ## Interested in supporting me? 
+  🛠️ Interested in supporting us? 
   Donate to my crypto wallet:
   Eth: 0x40455b8853a778a6477289b756512fc53c44366e
 
 
 
-## ᵗᑋᵃᐢᵏ ᵞᵒᵘ* so much for reading!
-*💫 I'm always up for working with other crypto fans and developers. You can report issues and suggest changes to my projects.*
+ᵗᑋᵃᐢᵏ ᵞᵒᵘ* 
+*💫 we re always up for working with other crypto fans and developers. You can report issues and suggest changes to my projects.*
 
