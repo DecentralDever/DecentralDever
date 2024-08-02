@@ -34,26 +34,19 @@ These unique features and our novel approach position our ROSCA system as a grou
 
  ⚡ Capabilities
 
-1. **Blockchain:**
-  - Blockchain Development: Solidity, Ethereum, Binance Smart Chain, Polygon
-  - Smart Contracts: Writing, testing, and deploying smart contracts
-  - DeFi: Yield farming, liquidity provision, staking, protocol analysis
+   - Blockchain Development: Solidity, Ethereum, Binance Smart Chain, Polygon
+   - Smart Contracts: Writing, testing, and deploying smart contracts
+   - DeFi: Yield farming, liquidity provision, staking, protocol analysis
 
-2. **Programming:**
    - Advanced knowledge of programming languages like Solidity, Java, and Html for building dApps
 
-5. **Database Management:**
    - Knowledge of managing databases, particularly those used in decentralized applications, such as IPFS.
 
-6. **Financial Analysis:**
    - Ability to analyze financial data and understand financial inclusion challenges.
    - Knowledge of traditional and decentralized financial systems.
 
-7. **Risk Management:**
-   - Skills in identifying and mitigating financial and technological risks.
    - Understanding of security protocols to protect against fraud and cyber threats.
 
-8. **Community Building:**
    - Experience in building and nurturing online communities.
    - Skills in engaging with users through social media, forums, and other platforms to gather feedback and drive adoption.
   
