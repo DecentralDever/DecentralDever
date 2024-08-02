@@ -1,4 +1,4 @@
-📜 Building on the scroll 📜
+📜 Building on scroll 📜
 
 🖐 Hello we are DecentralDever 
 
