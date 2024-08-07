@@ -4,7 +4,7 @@
 
 🖐 Hello we are DecentralDever 
 
- We are passionate crypto enthusiast who are dedicated to advancing decentralized finance and innovative blockchain solutions. 
+👉 We are passionate crypto enthusiast who are dedicated to advancing decentralized finance and innovative blockchain solutions. 
 
  ## 📝 Projects: ##
 
