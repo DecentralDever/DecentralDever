@@ -3,7 +3,8 @@
  ![image](https://github.com/user-attachments/assets/67fae144-2a73-4869-a82f-f930cae95605)  ![image](https://github.com/user-attachments/assets/ab0f74c7-b671-45d5-875b-f42c211b2c88)
 
 🖐 Hello we are DecentralDever 
-We are passionate crypto enthusiast who are dedicated to advancing decentralized finance and innovative blockchain solutions. 
+
+ We are passionate crypto enthusiast who are dedicated to advancing decentralized finance and innovative blockchain solutions. 
 
  ## 📝 Projects: ##
 
@@ -59,5 +60,5 @@ Our Decentralized Cooperative Savings and Lending (ROSCA) System stands out due 
 
 
 ᵗᑋᵃᐢᵏ ᵞᵒᵘ* 
-*💫 we re always up for working with other crypto fans and developers. You can report issues and suggest changes to my projects.*
+*💫 we are always up for working with other crypto fans and developers. You can report issues and suggest changes to my projects.*
 
