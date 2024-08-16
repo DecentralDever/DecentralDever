@@ -6,7 +6,7 @@
 
 👉 We are passionate crypto enthusiast who are dedicated to advancing decentralized finance and innovative blockchain solutions. 
 
- ## 📝 Projects: ##  
+ ## 📝 Projects ##  
 
 Our Current Project is Decentralized Cooperative Savings and Lending (ROSCA) System
 Our Decentralized Cooperative Savings and Lending (ROSCA) System stands out due to several unique and novel features:
