@@ -2,7 +2,7 @@
  
  ![image](https://github.com/user-attachments/assets/67fae144-2a73-4869-a82f-f930cae95605)  ![image](https://github.com/user-attachments/assets/ab0f74c7-b671-45d5-875b-f42c211b2c88) 
 
-🖐 Hello we are DecentralDever 
+🖐 Hello we're DecentralDever 
 
 👉 We are passionate crypto enthusiast who are dedicated to advancing decentralized finance and innovative blockchain solutions. 
 
@@ -34,7 +34,7 @@ Our Decentralized Cooperative Savings and Lending (ROSCA) System stands out due 
 
 *These unique features and our novel approach position our ROSCA system as a groundbreaking solution in the DeFi space, addressing critical gaps in traditional financial systems and driving broader adoption of decentralized finance.*
 
- ## ⚡ Capabilities
+ ## ⚡ Capabilities 
 
    - Blockchain Development: Solidity, Ethereum, Binance Smart Chain, Polygon
    - Smart Contracts: Writing, testing, and deploying smart contracts
