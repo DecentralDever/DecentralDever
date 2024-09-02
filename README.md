@@ -6,7 +6,7 @@
 
 👉 We are passionate crypto enthusiast who are dedicated to advancing decentralized finance and innovative blockchain solutions. 
 
- ## 📝 Projects ##-
+ ## 📝 Projects ##
 
 Our Current Project is Decentralized Cooperative Savings and Lending (ROSCA) System
 Our Decentralized Cooperative Savings and Lending (ROSCA) System stands out due to several unique and novel features:
@@ -34,7 +34,7 @@ Our Decentralized Cooperative Savings and Lending (ROSCA) System stands out due 
 
 *These unique features and our novel approach position our ROSCA system as a groundbreaking solution in the DeFi space, addressing critical gaps in traditional financial systems and driving broader adoption of decentralized finance.*
 
- ## ⚡ Capabilities-
+ ## ⚡ Capabilities
 
    - Blockchain Development: Solidity, Ethereum, Binance Smart Chain, Polygon
    - Smart Contracts: Writing, testing, and deploying smart contracts
