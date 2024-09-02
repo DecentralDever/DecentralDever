@@ -2,7 +2,7 @@
  
  ![image](https://github.com/user-attachments/assets/67fae144-2a73-4869-a82f-f930cae95605)  ![image](https://github.com/user-attachments/assets/ab0f74c7-b671-45d5-875b-f42c211b2c88) 
 
-🖐 Hello we're DecentralDever:
+🖐 Hello we're DecentralDever
 
 👉 We are passionate crypto enthusiast who are dedicated to advancing decentralized finance and innovative blockchain solutions. 
 
