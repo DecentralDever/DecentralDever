@@ -1,4 +1,4 @@
-📜 Building on Starknet 📜
+📜 Building on EVM 📜
 
 
 
