@@ -1,43 +1,55 @@
-📜 Building on EVM 📜
+UnityLedger
 
+Decentralized Cooperative Savings & Lending (ROSCA) Platform
 
+📝 Project Overview
 
-🖐 Hello, we’re DecentralDever
+UnityLedger is a decentralized, community-driven Rotating Savings and Credit Association (ROSCA) platform built for both EVM-compatible chains and Stellar’s Soroban environment. Our mission is to digitize traditional cooperative savings circles, enabling secure, transparent, and trustless management of group contributions and payouts.
 
-👉 We are passionate crypto enthusiasts dedicated to advancing decentralized finance and innovative blockchain solutions on Starknet.
+Key Features
 
-📝 Project
+Cross-Chain Deployment
 
-Decentralized Cooperative Savings and Lending (ROSCA) System
+Native support for Ethereum, Polygon, and other EVM-compatible networks
 
-Our ROSCA platform stands out with several unique, novel features:
+Soroban smart contracts on Stellar for low-cost transactions and robust account abstraction
 
-Leveraging Starknet’s zk-rollup TechnologyBy building on Starknet’s Layer 2 network, our platform achieves ultra-low fees, high throughput, and enhanced privacy via zk proofs—delivering a seamless user experience superior to Layer 1-only solutions.
+Automated Contribution Cycles
 
-Focus on Financial InclusionTargeting underserved communities—particularly in Africa—where traditional banking is inaccessible. We digitize ROSCA cycles to empower individuals excluded from formal finance.
+Smart contracts orchestrate contributions, payouts, and penalties without manual intervention
 
-Smart Contract AutomationEthereum-compatible contracts automate contributions, payouts, and repayments, reducing manual coordination, eliminating human error, and guaranteeing transparency and trust.
+Configurable cycle parameters: contribution amounts, schedules, and member limits
 
-Enhanced Transparency & SecurityEvery action is immutably recorded on Starknet’s ledger. zk-rollup proofs ensure data integrity and privacy, drastically lowering fraud risk.
+Financial Inclusion Focus
 
-Community-Driven DevelopmentWe engage users directly—gathering feedback to tailor features to their needs. This bottom-up approach ensures relevance and adoption.
+Designed for communities without reliable banking access
 
-Ecosystem Support & IntegrationBeyond software, we provide technical guidance, marketing assistance, and connect users with advisors within the Starknet ecosystem to foster growth and sustainability.
+Mobile-friendly UI/UX to accommodate low-bandwidth environments
 
-Scalability & Long-Term VisionWe commit to continuous iteration—expanding regionally, adding new features based on user input, and scaling the protocol to serve thousands of ROSCA groups.
+Immutable Transparency & Security
 
-⚡ Capabilities
+All actions recorded on-chain for auditability
 
-Blockchain Development: Solidity, Ethereum, Polygon, Starknet
+Industry-standard security audits and formal verification for mission-critical contracts
 
-Smart Contracts: Authoring, testing, and deploying audited contracts on Starknet
+Community-Guided Development
 
-DeFi Expertise: Yield farming, liquidity provisioning, staking, protocol economics
+Feedback-driven feature roadmap informed by real-world user insights
 
-dApp Infrastructure: IPFS, decentralized storage, on-chain/off-chain integration
+⚡ Capabilities & Tech Stack
 
-Financial Analysis: Understanding financial inclusion challenges and data modeling
+Blockchain Development: Solidity (EVM chains), Rust/Soroban (Stellar)
 
-Security Best Practices: Designing for resilience against fraud and cyber threats
+Smart Contracts: ERC-20/ERC-721, custom ROSCA cycle modules, audited deployments
 
-Community Engagement: Building, nurturing, and scaling user communities via social media and events
+Backend & APIs: Node.js microservices with robust off-chain data orchestration
+
+Frontend: Next.js, React, TypeScript, Tailwind CSS, Framer Motion for smooth user interactions
+
+Decentralized Storage: IPFS & compatible gateways for metadata and historical records
+
+Data & Analytics: Real-time dashboards, KPI tracking, and ETL pipelines
+
+Security Best Practices: Formal verification, CI/CD integration, bug-bounty program readiness
+
+Community & Outreach: User education, documentation, and regular workshops/webinars
